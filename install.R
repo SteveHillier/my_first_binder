@@ -1,1 +1,5 @@
 install.packages("powdR")
+install.packages("tictoc")
+install.packages("foreach")
+install.packages("doParallel")
+install.packages("tcltk")
